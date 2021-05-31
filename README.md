@@ -1,0 +1,1 @@
+# patron-o-modelo-arquitectonico-monolitico
